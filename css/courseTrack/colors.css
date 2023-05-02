@@ -1,0 +1,14 @@
+p {
+    background-color: saddlebrown;
+}
+h1 {
+    background-color: aliceblue;
+}
+ol{
+    color:red;
+    background-image: url("backImg.jpg") ;    
+    border: 10px solid pink;
+}
+body {
+    background-image: url(backImg.jpg);
+}
