@@ -1,0 +1,23 @@
+body {
+    background-color: aquamarine;
+}
+
+.smIcon{
+    background-color: bisque;
+    border: 1px solid coral;
+}
+.sections{
+    background-color: azure;
+    border: 2px solid seashell;
+    border-radius: 1%; 
+}
+#smIcon {
+border:2px solid greenyellow
+}
+#testDiv{
+    border: 2px solid pink;
+    border-color: antiquewhite;
+    background-color: aliceblue;
+}
+
+
